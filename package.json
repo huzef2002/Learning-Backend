@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "nodelearning",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node firstServer/Index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
